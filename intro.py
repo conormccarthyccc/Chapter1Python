@@ -1,0 +1,5 @@
+print("What is your age?")
+print(17)
+print("My age is 17")
+print ("my age is", 17)
+print("I am", 17, "and my friend", is 56)
